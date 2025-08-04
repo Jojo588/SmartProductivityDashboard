@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SmartProductivityDashboard/static/css/main.dc7894b8.css",
-    "main.js": "/SmartProductivityDashboard/static/js/main.61e72260.js",
+    "main.js": "/SmartProductivityDashboard/static/js/main.86bf6e0f.js",
     "static/js/453.f0e33eac.chunk.js": "/SmartProductivityDashboard/static/js/453.f0e33eac.chunk.js",
     "index.html": "/SmartProductivityDashboard/index.html",
     "main.dc7894b8.css.map": "/SmartProductivityDashboard/static/css/main.dc7894b8.css.map",
-    "main.61e72260.js.map": "/SmartProductivityDashboard/static/js/main.61e72260.js.map",
+    "main.86bf6e0f.js.map": "/SmartProductivityDashboard/static/js/main.86bf6e0f.js.map",
     "453.f0e33eac.chunk.js.map": "/SmartProductivityDashboard/static/js/453.f0e33eac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc7894b8.css",
-    "static/js/main.61e72260.js"
+    "static/js/main.86bf6e0f.js"
   ]
 }
