@@ -38,7 +38,9 @@ export default function App() {
       <div className="max-w-6xl mx-auto">
         <div className="flex justify-between items-center mb-6 gap-4">
           <h1 className="text-3xl font-bold text-center md:text-left max-sm:text-xl">🧠 Smart Productivity Dashboard</h1>
-          <ThemeToggle z />
+          <ThemeToggle
+          theme={theme}
+          setTheme={setTheme}/>
         </div>
 
         <DragDropContext onDragEnd={onDragEnd}>
